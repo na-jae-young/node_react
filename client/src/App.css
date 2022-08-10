@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: system-ui;
 }
 
 .form {
@@ -13,4 +14,24 @@
   margin : 10px; 
   height: 60px;
   font-size: 25px;
+}
+.card {
+  width: 500px;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+.card button {
+  margin-left: 10px;
+}
+.card h1 {
+  margin: 10px;
+}
+
+#reviewUpdate {
+  width: 100px;
+  height: 12px;
+  margin:0;
+  font-size: 5px;
 }

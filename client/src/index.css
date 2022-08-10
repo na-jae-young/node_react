@@ -12,8 +12,3 @@ code {
     monospace;
 }
 
-.form {
-  display: flex;
-  flex-direction: column;
-}
-.form input { width : 300px; margin   : 10 px;  height: 60px;;}
